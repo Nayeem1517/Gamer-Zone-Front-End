@@ -34,4 +34,26 @@
     .online-portal{
         padding: 15px;
     }
+    .poster{
+        flex-direction: column;
+        padding: 40px;
+    }
+    .poster-2{
+        flex-direction: column;
+    }
+    .dream{
+        display: none;
+    }
+    .boy{
+        display: none;
+    }
+    .poster img{
+        width: 550px;
+        padding: 80px;
+    }
+    .poster-2 img{
+        padding: 80px;
+        width: 550px;
+
+    }
 }
