@@ -105,29 +105,57 @@ main {
     border: 2px solid white;
     border-radius: 10px;
 }
-.banner-img{
+
+.banner-img {
     height: 680px;
     width: 650px;
 }
 
 /* Feature Section Started Heree */
-.feature{
+.feature {
     gap: 30px;
     margin-top: 20px;
     display: flex;
     justify-content: space-around;
     justify-content: center;
 }
-.feature-description{
+
+.feature-description {
     margin-top: 50px;
     justify-content: center;
     align-items: center;
 }
-.dhaka{
+
+.dhaka {
     font-size: 1.5rem;
     color: steelblue;
 }
-.feature-img{
+
+.feature-img {
     width: 600px;
     height: 550px;
+}
+
+.online-feature {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+
+.game-title {
+    font-size: 1rem;
+    color:navy;
+    font-weight: 400;
+}
+
+.khulna {
+    font-size: 3rem;
+    color: steelblue;
+
+}
+
+.warner {
+    justify-content: center;
+    align-items: center;
+    margin-left: 400px;
 }

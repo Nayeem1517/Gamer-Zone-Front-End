@@ -25,4 +25,13 @@
         width: 500px;
         height: 550px;
     }
+    .online-feature{
+        flex-direction: column;
+    }
+    .warner{
+        margin: 0px;
+    }
+    .online-portal{
+        padding: 15px;
+    }
 }
