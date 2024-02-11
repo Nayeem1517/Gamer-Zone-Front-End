@@ -56,4 +56,10 @@
         width: 550px;
 
     }
+    .careers{
+        flex-direction: column;
+    }
+    .carrer-img{
+       display: none;
+    }
 }
