@@ -62,4 +62,21 @@
     .carrer-img{
        display: none;
     }
+    .comment-item{
+        width: 600px;
+    }
+    .footer-icon{
+        margin-left: 100px;
+       
+       
+    }
+    .fahim{
+        flex-direction: column;
+        margin-left: 200px;
+    }
+    .footer-icon{
+        display: flex;
+        flex-direction: column;
+        margin-right: 150px;
+    }
 }
